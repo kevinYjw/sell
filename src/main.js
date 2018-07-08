@@ -3,8 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import vueResource from 'vue-resource'
 import 'common/stylus/reset.css'
 import 'common/stylus/border.css'
+import 'common/stylus/icon.styl'
+
+Vue.use(vueResource)
 
 /* eslint-disable no-new */
 new Vue({
