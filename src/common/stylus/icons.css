@@ -24,7 +24,7 @@
   -moz-osx-font-smoothing: grayscale
 
 
-.icon-add_circle:before
+.icon-add_circle:before /*拇指向下箭头*/
   content: "\e900"
 
 .icon-arrow_lift:before
@@ -39,7 +39,7 @@
 .icon-favorite:before
   content: "\e904"
 
-.icon-keyboard_arrow_right:before
+.icon-keyboard_arrow_right:before  /*拇指向上箭头*/
   content: "\e905"
 
 .icon-remove_circle_outline:before
